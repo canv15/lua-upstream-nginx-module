@@ -277,6 +277,8 @@ tar -xzvf nginx-1.11.2.tar.gz
 cd nginx-1.11.2/
 
 # assuming your luajit is installed to /opt/luajit:
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-upstream-nginx-module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-upstream-nginx-module?ref=badge_shield)
+
 export LUAJIT_LIB=/opt/luajit/lib
 
 # assuming you are using LuaJIT v2.1:
@@ -335,3 +337,7 @@ See Also
 
 [Back to TOC](#table-of-contents)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-upstream-nginx-module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-upstream-nginx-module?ref=badge_large)
